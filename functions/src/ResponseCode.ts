@@ -1,0 +1,5 @@
+export enum ResponseCode {
+  CALENDAR_NOT_EXISTS = 0,
+  CALENDAR_ALREADY_EXISTS = 1,
+  FIREBASE_ERROR = 2
+}
